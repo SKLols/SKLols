@@ -63,7 +63,7 @@ patterns equally satisfying.
 📍 Ingolstadt, Germany · Open to Munich, Stuttgart & surrounding region
 🌐 German B2 · English C1
 
-
+## What I work on
 <img src="focus_areas.svg" width="100%" alt="Focus Areas"/>
 
 

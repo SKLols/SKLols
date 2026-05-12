@@ -67,7 +67,6 @@ patterns equally satisfying.
 <img src="focus_areas.svg" width="100%" alt="Focus Areas"/>
 ---
 
----
 
 ## 🔬 Featured Project
 

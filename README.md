@@ -6,14 +6,6 @@
 <!-- HEADER BANNER — Option 2: photo left, name+title right -->
 <table>
   <tr>
-    <td width="180" align="center" valign="middle">
-      <img
-        src="Sourabh_Lolge_Photo.jpeg"
-        alt="Sourabh Lolge"
-        width="140"
-        style="border-radius: 12px;"
-      />
-    </td>
     <td valign="middle" style="padding-left: 20px;">
       <h2>Sourabh Lolge</h2>
       <p>

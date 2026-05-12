@@ -42,16 +42,30 @@
 
 ## About Me
 
-M.Eng. in International Automotive Engineering from Technische Hochschule Ingolstadt, Germany. My master's thesis extended the CVPR 2025 STU benchmark — conducting the **first comprehensive evaluation of all major uncertainty methods** for 3D LiDAR anomaly detection, alongside a novel query selection framework that cuts computational load by 62% while pushing AUROC to 95.18%.
+ADAS and perception engineer with 3+ years building autonomous driving
+systems — from raw sensor data to deployed functions on real vehicles.
 
-I work at the intersection of **3D perception**, **uncertainty quantification**, and **sensor fusion** — building systems that make autonomous vehicles safer by detecting what they weren't trained to see.
+I commission and integrate sensor setups (LiDAR, radar, camera, GNSS,
+IMU), build C++ and Python processing pipelines, run data collection
+campaigns with instrumented test vehicles, and train deep learning models
+for 3D scene understanding. On the validation side I work with CANoe,
+CAPL, V2X stacks, and scenario-based testing in IPG CarMaker and ROS2.
 
-Currently expanding my breadth into SLAM, radar perception, and camera-based CV to complement my LiDAR expertise.
+My master's thesis is on 3D LiDAR anomaly detection — teaching vehicles
+to recognize objects they've never seen before. Outside of that I build
+stock market scanners that push technical indicator alerts to Telegram
+because why not automate everything.
 
-```
-Focus areas: ADAS · 3D Perception · OOD Detection · Sensor Fusion · 
-             Uncertainty Quantification · Semantic Segmentation · SLAM
-```
+When I'm not in front of a screen: volleyball, table tennis, and portrait
+sketching. The kind of person who finds sensor calibration and candlestick
+patterns equally satisfying.
+
+📍 Ingolstadt, Germany · Open to Munich, Stuttgart & surrounding region
+🌐 German B2 · English C1
+
+---
+<img src="focus_areas.svg" width="100%" alt="Focus Areas"/>
+---
 
 ---
 

@@ -106,6 +106,7 @@ patterns equally satisfying.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [stu-anomaly-postprocessing](https://github.com/SKLols/stu-anomaly-postprocessing) | 3D LiDAR anomaly segmentation extending CVPR 2025 STU benchmark. Novel query selection + 7 uncertainty methods evaluated. | PyTorch · LiDAR · Transformers |
+| [SKL_Algo](https://github.com/SKLols/SKL_Algo) | Minervini stock scanner — detects VCP, Darvas Box, Cup & Handle, and Breakout setups across NSE & S&P 500. Automated Telegram alerts twice daily. Side project, runs in production. | Python · yfinance · Telegram |
 | lidar-pointcloud-viz *(coming soon)* | LiDAR point cloud visualization and processing on SemanticKITTI | Open3D · ROS2 · Python |
 | adas-uncertainty-demo *(coming soon)* | Comparative notebook — MSP vs SML vs Energy vs Entropy for OOD detection | PyTorch · Jupyter |
 | camera-perception-demo *(coming soon)* | Camera-based object detection and monocular depth estimation | OpenCV · PyTorch |

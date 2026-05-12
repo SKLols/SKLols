@@ -205,7 +205,7 @@ I write weekly about autonomous driving, 3D perception, sensors, and things I le
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:sourabha.lolage@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=sourabha.lolage@gmail.com">
   <img src="https://img.shields.io/badge/Email-sourabha.lolage@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

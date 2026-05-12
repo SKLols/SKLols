@@ -4,38 +4,73 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- HEADER BANNER — Option 2: photo left, name+title right -->
-<table>
+
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+
   <tr>
-    <td width="180" align="center" valign="middle">
+
+    <td width="180" align="center" valign="middle" style="border:none;">
+
       <img
         src="Sourabh_Lolge_Photo.jpeg"
         alt="Sourabh Lolge"
         width="140"
         style="border-radius: 12px;"
       />
+
     </td>
-    <td valign="middle" style="padding-left: 20px;">
+
+    <td valign="middle" style="padding-left: 20px; border:none;">
+
       <h2>Sourabh Lolge</h2>
+
       <p>
         <strong>Computer Vision & Autonomous Driving Engineer</strong><br/>
         M.Eng. · Technische Hochschule Ingolstadt, Germany
       </p>
+
       <p>
+
         <a href="https://www.linkedin.com/in/sourabh-lolge-398b26118/">
-          <img src="https://img.shields.io/badge/LinkedIn-Sourabh_Lolge-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+
+          <img
+            src="https://img.shields.io/badge/LinkedIn-Sourabh_Lolge-0077B5?style=flat&logo=linkedin&logoColor=white"
+          />
+
         </a>
+
         &nbsp;
-        <img src="https://img.shields.io/badge/Location-Ingolstadt,_Germany-4B8BBE?style=flat&logo=googlemaps&logoColor=white"/>
+
+        <img
+          src="https://img.shields.io/badge/Location-Ingolstadt,_Germany-4B8BBE?style=flat&logo=googlemaps&logoColor=white"
+        />
+
       </p>
+
       <p>
-        <img src="https://img.shields.io/badge/LiDAR-3D_Perception-0d1117?style=flat"/>
+
+        <img
+          src="https://img.shields.io/badge/LiDAR-3D_Perception-0d1117?style=flat"
+        />
+
         &nbsp;
-        <img src="https://img.shields.io/badge/ADAS-Autonomous_Driving-0d1117?style=flat"/>
+
+        <img
+          src="https://img.shields.io/badge/ADAS-Autonomous_Driving-0d1117?style=flat"
+        />
+
         &nbsp;
-        <img src="https://img.shields.io/badge/Computer_Vision-Deep_Learning-0d1117?style=flat"/>
+
+        <img
+          src="https://img.shields.io/badge/Computer_Vision-Deep_Learning-0d1117?style=flat"
+        />
+
       </p>
+
     </td>
+
   </tr>
+
 </table>
 
 ---
